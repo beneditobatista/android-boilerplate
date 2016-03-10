@@ -112,7 +112,7 @@ Nós usamos o plugin __Gradle Play Publisher__. Uma vez configurado corretamente
 ./gradlew publishApkRelease
 ```
 
-Leia [plugin documentation](https://github.com/Triple-T/gradle-play-publisher) para mais informações.
+Leia a [documentação do plugin](https://github.com/Triple-T/gradle-play-publisher) para mais informações.
 
 ### Crashlytics
 
